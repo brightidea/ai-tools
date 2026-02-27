@@ -1,0 +1,10 @@
+{
+  "name": "do-work",
+  "description": "Complete development lifecycle plugin with agents, agent teams, and skills — from requirements to deployment",
+  "version": "1.0.0",
+  "author": {
+    "name": "Blake"
+  },
+  "license": "MIT",
+  "keywords": ["lifecycle", "agents", "teams", "tdd", "deployment", "scaffolding", "review"]
+}
