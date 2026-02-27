@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "do-work-local",
+  "description": "Local marketplace for the do-work lifecycle plugin",
+  "owner": {
+    "name": "Blake"
+  },
+  "plugins": [
+    {
+      "name": "do-work",
+      "description": "Complete development lifecycle plugin with agents, agent teams, and skills — from requirements to deployment",
+      "version": "1.0.0",
+      "author": {
+        "name": "Blake"
+      },
+      "source": "./plugins/do-work",
+      "category": "development"
+    }
+  ]
+}
